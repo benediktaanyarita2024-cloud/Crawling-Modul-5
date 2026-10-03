@@ -1,0 +1,14 @@
+# virtual environment (folder week5 sekaligus venv)
+Include/
+Lib/
+Scripts/
+etc/
+share/
+pyvenv.cfg
+
+# jupyter
+.ipynb_checkpoints/
+
+# lain-lain
+__pycache__/
+venv/
